@@ -4,6 +4,14 @@ import Image from 'next/image';
 import BookingForm from '@/components/BookingForm';
 import ExtraInfo from '@/components/ExtraInfo';
 
+import tours from '@/tours.json'; // adjust path based on actual location
+
+export async function generateStaticParams() {
+    return tours.map(tour => ({
+        tourId: tour.id.toString(), // make sure id exists and is string or converted
+    }));
+}
+
 const page = async ({ params }) => {
     const { tourId } = await params;
 
