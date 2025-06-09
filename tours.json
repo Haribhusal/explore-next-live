@@ -1,0 +1,82 @@
+[
+    {
+        "id": "dest1",
+        "title": "Hoi An",
+        "country": "Vietnam",
+        "pricing": "$25–$45/day",
+        "short_info": "A UNESCO-listed ancient town known for lantern-lit streets, rice fields, and beaches. Offers affordable food and accommodations.",
+        "image_url": "https://cdn.pixabay.com/photo/2013/09/09/14/38/ship-180751_1280.jpg"
+    },
+    {
+        "id": "dest2",
+        "title": "Siem Reap",
+        "country": "Cambodia",
+        "pricing": "$24/day",
+        "short_info": "Gateway to Angkor Wat, featuring a lively town with $3 meals and 50¢ beers.",
+        "image_url": "https://cdn.pixabay.com/photo/2013/09/09/14/38/ship-180751_1280.jpg"
+    },
+    {
+        "id": "dest3",
+        "title": "Cusco",
+        "country": "Peru",
+        "pricing": "$24/day",
+        "short_info": "Historic city near Machu Picchu, offering affordable stays and vibrant local culture.",
+        "image_url": "https://cdn.pixabay.com/photo/2013/09/09/14/38/ship-180751_1280.jpg"
+    },
+    {
+        "id": "dest4",
+        "title": "Milos",
+        "country": "Greece",
+        "pricing": "$50–$70/day",
+        "short_info": "A Cycladic island with over 70 beaches and charming fishing villages.",
+        "image_url": "https://cdn.pixabay.com/photo/2013/09/09/14/38/ship-180751_1280.jpg"
+    },
+    {
+        "id": "dest5",
+        "title": "Bhutan",
+        "country": "Bhutan",
+        "pricing": "$200–$250/day",
+        "short_info": "Himalayan kingdom emphasizing Gross National Happiness, with monasteries and trekking routes.",
+        "image_url": "https://cdn.pixabay.com/photo/2013/09/09/14/38/ship-180751_1280.jpg"
+    },
+    {
+        "id": "dest6",
+        "title": "Nepal",
+        "country": "Nepal",
+        "pricing": "$22–$30/day",
+        "short_info": "Home to Everest Base Camp and rich cultural heritage, offering budget-friendly adventures.",
+        "image_url": "https://cdn.pixabay.com/photo/2013/09/09/14/38/ship-180751_1280.jpg"
+    },
+    {
+        "id": "dest7",
+        "title": "Albanian Riviera",
+        "country": "Albania",
+        "pricing": "$30–$50/day",
+        "short_info": "Features golden beaches, UNESCO sites, and meals averaging €10.",
+        "image_url": "https://cdn.pixabay.com/photo/2013/09/09/14/38/ship-180751_1280.jpg"
+    },
+    {
+        "id": "dest8",
+        "title": "Yogyakarta",
+        "country": "Indonesia",
+        "pricing": "$20–$30/day",
+        "short_info": "Cultural hub with ancient temples and affordable local cuisine.",
+        "image_url": "https://cdn.pixabay.com/photo/2013/09/09/14/38/ship-180751_1280.jpg"
+    },
+    {
+        "id": "dest9",
+        "title": "Cartagena",
+        "country": "Colombia",
+        "pricing": "$25/day",
+        "short_info": "Colonial city with Caribbean beaches and vibrant nightlife.",
+        "image_url": "https://cdn.pixabay.com/photo/2013/09/09/14/38/ship-180751_1280.jpg"
+    },
+    {
+        "id": "dest10",
+        "title": "Phuket",
+        "country": "Thailand",
+        "pricing": "$30–$50/day",
+        "short_info": "Island destination with beaches, nightlife, and budget accommodations.",
+        "image_url": "https://cdn.pixabay.com/photo/2013/09/09/14/38/ship-180751_1280.jpg"
+    }
+]
