@@ -14,7 +14,7 @@ const HeroSection = () => {
                     </div>
                 </div>
                 <div className="tour-image">
-                    <Image className='rounded-md' width={1000} alt='bali' height={600} src={'https://images.pexels.com/photos/2711640/pexels-photo-2711640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'} />
+                    <Image className='rounded-md' width={1000} alt='bali' height={600} src={'https://images.pexels.com/photos/8563018/pexels-photo-8563018.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'} />
                 </div>
             </div>
         </section>
